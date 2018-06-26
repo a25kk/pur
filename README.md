@@ -1,1 +1,1 @@
-# pur
+# Purist Augsburg Static Website
